@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to joey-park
 
 You can use the [editor on GitHub](https://github.com/joey-park/joey-park.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 我的学习
+## 我的记录
+### 我的点滴
 
 - Bulleted
 - List
