@@ -1,6 +1,7 @@
  name: joey-park, an interesting place
  markdown: kramdown
  permalink: /blog/:year/:month/:day/:title
-
-theme: jekyll-theme-architect
-
+ theme: jekyll-theme-architect
+ header-img: GitHub.jpg 
+ keyword:"joey,joey的博客，web"
+ url:"http://joey-park.github.io"
