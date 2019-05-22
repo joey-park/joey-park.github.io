@@ -3,11 +3,4 @@
  markdown: kramdown
  permalink: /blog/:year/:month/:day/:title
  theme: jekyll-theme-architect
- header-img: GitHub.jpg 
- keyword:"joey,joey的博客，web"
- url:"http://joey-park.github.io"
-
-# Sidebar settings
-sidebar: true                           
-sidebar-about-description: "A cool girl!"
-sidebar-avatar:小谢尔顿.jpeg
+ sidebar-avatar:小谢尔顿.jpeg
