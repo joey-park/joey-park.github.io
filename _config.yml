@@ -1,6 +1,5 @@
- # Site settings
  name: joey-park, an interesting place
  markdown: kramdown
  permalink: /blog/:year/:month/:day/:title
  theme: jekyll-theme-architect
- sidebar-avatar:小谢尔顿.jpeg
+ 
